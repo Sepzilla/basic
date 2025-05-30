@@ -1,6 +1,6 @@
 {
   "friendly_name": "quvuntu",
-  "image_src": "quvuntu.jpeg",
+  "image_src": "quvuntu.png",
   "description": "VPN Enabled Desktop",
   "cores": 2,
   "memory": 2768,
