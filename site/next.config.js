@@ -7,7 +7,7 @@ const nextConfig = {
     name: 'Kasm Technologies',
     description: 'The official store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://Sepzilla.github.io/',
+    listUrl: 'https://sepzilla.github.io/basic',
     contactUrl: 'https://kasmweb.com/support',
   },
   reactStrictMode: true,
