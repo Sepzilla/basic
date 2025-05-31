@@ -15,7 +15,7 @@
   ],
   "compatibility": [
     {
-      "version": "1.16.x",
+      "version": "1.17.0",
       "image": "sepzilla/qvubuntu:1",
       "uncompressed_size_mb": 1001,
       "available_tags": [
