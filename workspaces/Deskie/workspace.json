@@ -1,0 +1,29 @@
+{
+  "friendly_name": "quvuntu",
+  "image_src": "quvuntu.png",
+  "description": "VPN Enabled Desktop",
+  "cores": 2,
+  "memory": 2768,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://index.docker.io/v1/",
+  "categories": [
+    "Desktop"
+  ],
+  "architecture": [
+    "amd64",
+	"arm64"
+  ],
+  "compatibility": [
+    {
+      "version": "1.16.x",
+      "image": "sepzilla/qvubuntu:1",
+      "uncompressed_size_mb": 1001,
+      "available_tags": [
+        "develop",
+        "1.16.0",
+        "1.16.0-rolling-weekly",
+        "1.16.0-rolling-daily"
+      ]
+    }
+  ]
+}
